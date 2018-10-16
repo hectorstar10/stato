@@ -1,0 +1,2 @@
+# stato
+statoEventos
